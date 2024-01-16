@@ -4,7 +4,7 @@ html{
 }
 
 p{
-  teaxt-align:center;
+  text-align:center;
   color:cyan;
 }
 
@@ -15,4 +15,8 @@ h1{
 
 body{
   background:black;
+}
+
+a{
+  text-align:center;
 }
